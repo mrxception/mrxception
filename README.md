@@ -98,7 +98,11 @@
 ---
 
 ## Connect
-[Email](mailto:jayyan.tiongzon@cit.edu)
+<p align="center">
+  <a href="mailto:jayyan.tiongzon@cit.edu">
+    <img src="https://img.shields.io/badge/Email-jayyan.tiongzon@cit.edu-c14438?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
