@@ -61,11 +61,29 @@
 
 ---
 
+## Security & Network Tools
+<p align="center">
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1B7A90?style=flat&logo=wireshark&logoColor=white" alt="Wireshark"></a>
+  <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/-tcpdump-333333?style=flat" alt="tcpdump"></a>
+  <a href="https://ngrep.sourceforge.net/"><img src="https://img.shields.io/badge/-ngrep-0B3D91?style=flat" alt="ngrep"></a>
+  <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-9CC5FF?style=flat&logo=nmap&logoColor=black" alt="Nmap"></a>
+  <a href="https://github.com/robertdavidgraham/masscan"><img src="https://img.shields.io/badge/-masscan-27272A?style=flat" alt="masscan"></a>
+  <a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/-OpenVAS-2A6F97?style=flat" alt="OpenVAS"></a>
+  <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/-Metasploit-5C5CFF?style=flat" alt="Metasploit"></a>
+  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp%20Suite-8A2BE2?style=flat" alt="Burp Suite"></a>
+  <a href="https://owasp.org/www-project-zap/"><img src="https://img.shields.io/badge/-OWASP%20ZAP-2D6AA6?style=flat" alt="OWASP ZAP"></a>
+  <a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/"><img src="https://img.shields.io/badge/-WinDbg-0078D6?style=flat" alt="WinDbg"></a>
+  <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon"><img src="https://img.shields.io/badge/-Procmon-005A9C?style=flat" alt="Procmon"></a>
+  <a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/-SQLmap-8B0000?style=flat" alt="SQLmap"></a>
+</p>
+
+---
+
 ## What I’m Working On
 - Learning advanced web frameworks (Next.js, Node.js)  
-- Exploring artificial intelligence and building AI-powered tools (NLP, automation, generative models)  
+- Exploring artificial intelligence and building AI-powered tools
 - Designing data-backed services using Postgres, Supabase, and Firebase  
-- Experimenting with reverse engineering and security tooling (IDA Pro, x64dbg, OllyDbg, Cheat Engine) in controlled lab environments  
+- Experimenting with reverse engineering and security tooling
 - Building personal projects that mix creativity and utility
 
 ---
@@ -79,15 +97,8 @@
 
 ---
 
-## Projects (placeholders — replace with real repos)
-- **ai-toolbox** — small utilities for experimenting with prompt automation and model wrappers  
-- **net-scan-visualizer** — lightweight web UI for visualizing network scan results (learning project)  
-- **retro-debug-lab** — notes and scripts for reverse engineering practice in controlled environments
-
----
-
 ## Connect
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jayyan.tiongzon@cit.edu)
+[Email](mailto:jayyan.tiongzon@cit.edu)
 
 ---
 
