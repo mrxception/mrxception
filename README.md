@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3](https://i.nextmedia.com.au/News/20140616011238_lulzsec.jpg)&auto=format&fit=crop&w=1350&q=80" alt="Banner" width="100%">
+  <img src="https://i.nextmedia.com.au/News/20140616011238_lulzsec.jpg" alt="Banner" width="100%">
 </p>
 
-# Hello, I'm just a coder.
+# Hello, World!.
 
 > "The quieter you become, the more you are able to hear."  
 > – Anonymous
@@ -15,6 +15,7 @@
 - Building things that may or may not work  
 - Obsessed with clean code and minimal design  
 - Forever curious about how things break  
+- Strong believer in “learn by doing”  
 
 ---
 
@@ -38,6 +39,25 @@
 
 ---
 
+## What I’m Working On
+- Learning advanced **web frameworks** (Next.js, Node.js)  
+- Exploring **artificial intelligence** & building AI-powered tools  
+- Experimenting with **mobile development** (Kotlin & Flutter)  
+- Writing scripts for **automation & security testing**  
+- Creating personal projects that mix **creativity + utility**  
+
+---
+
+## Interests
+- Artificial Intelligence (machine learning, automation, and generative AI)  
+- Minimalist design philosophy applied to software  
+- Ethical hacking & penetration testing labs  
+- Open-source contributions  
+- Building lightweight tools that solve real-world problems  
+- Reading about tech history, hacker culture, and innovation  
+
+---
+
 ## Connect
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jayyan.tiongzon@cit.edu)
 
@@ -46,3 +66,11 @@
 ## Fun Fact
 > You’ll never really know who I am...  
 > but you’ll see the commits.
+
+---
+
+## Quote of the Day
+```bash
+> cat wisdom.txt
+"Talk is cheap. Show me the code."
+   – Linus Torvalds
