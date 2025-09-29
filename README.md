@@ -20,46 +20,74 @@
 ---
 
 ## Skills & Tools
+
+### Development & Frontend
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"></a>
-  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white"></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+</p>
+
+### Languages & Platforms
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></a>
+</p>
+
+### Databases & Backend
+<p align="center">
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres"></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"></a>
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=mysql&logoColor=white" alt="SQL"></a>
+</p>
+
+### Reverse Engineering & Security Tools
+<p align="center">
+  <a href="https://www.cheatengine.org/"><img src="https://img.shields.io/badge/-Cheat%20Engine-222222?style=flat&logo=cheatengine&logoColor=white" alt="Cheat Engine"></a>
+  <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/-IDA%20Pro-0F172A?style=flat&logo=hexrays&logoColor=white" alt="IDA Pro"></a>
+  <a href="https://x64dbg.com/"><img src="https://img.shields.io/badge/-x64dbg-1F2937?style=flat&logo=x64dbg&logoColor=white" alt="x64dbg"></a>
+  <a href="http://www.ollydbg.de/"><img src="https://img.shields.io/badge/-OllyDbg-111827?style=flat&logo=ollydbg&logoColor=white" alt="OllyDbg"></a>
 </p>
 
 ---
 
 ## What I’m Working On
-- Learning advanced **web frameworks** (Next.js, Node.js)  
-- Exploring **artificial intelligence** & building AI-powered tools  
-- Experimenting with **mobile development** (Kotlin & Flutter)  
-- Writing scripts for **automation & security testing**  
-- Creating personal projects that mix **creativity + utility**  
+- Learning advanced web frameworks (Next.js, Node.js)  
+- Exploring artificial intelligence and building AI-powered tools (NLP, automation, generative models)  
+- Designing data-backed services using Postgres, Supabase, and Firebase  
+- Experimenting with reverse engineering and security tooling (IDA Pro, x64dbg, OllyDbg, Cheat Engine) in controlled lab environments  
+- Building personal projects that mix creativity and utility
 
 ---
 
 ## Interests
-- Artificial Intelligence (machine learning, automation, and generative AI)  
-- Minimalist design philosophy applied to software  
-- Ethical hacking & penetration testing labs  
-- Open-source contributions  
-- Building lightweight tools that solve real-world problems  
-- Reading about tech history, hacker culture, and innovation  
+- Artificial Intelligence (machine learning, automation, generative AI)  
+- Software architecture and clean design  
+- Ethical hacking and secure coding practices  
+- Open-source contributions and collaboration  
+- Tech history, hacker culture, and practical tinkering
+
+---
+
+## Projects (placeholders — replace with real repos)
+- **ai-toolbox** — small utilities for experimenting with prompt automation and model wrappers  
+- **net-scan-visualizer** — lightweight web UI for visualizing network scan results (learning project)  
+- **retro-debug-lab** — notes and scripts for reverse engineering practice in controlled environments
 
 ---
 
 ## Connect
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jayyan.tiongzon@cit.edu)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jayyan.tiongzon@cit.edu)
 
 ---
 
