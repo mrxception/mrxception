@@ -113,7 +113,7 @@
 ---
 
 ## Quote of the Day
-```bash
-> cat wisdom.txt
+```cmd
+C:\Users\Anonymous> type wisdom.txt
 "Talk is cheap. Show me the code."
    – Linus Torvalds
